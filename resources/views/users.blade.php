@@ -17,9 +17,9 @@
                 <table class="table table-bordered table-striped">
                     <thead>
                         <tr>
-                            <th>ghea</th>
-                            <th>085659286184</th>
-                            <th>16th</th>
+                            <th>nama user</th>
+                            <th>nomor telepon</th>
+                            <th>roles</th>
                         </tr>
                     </thead>
                     <tbody>
