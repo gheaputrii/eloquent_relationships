@@ -65,3 +65,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # laravel_eloquent_relationships
 # eloquent-relationships
 # eloquent-relationships
+# eloquent-relationships
